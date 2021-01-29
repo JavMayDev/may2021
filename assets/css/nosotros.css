@@ -1,0 +1,31 @@
+#nosotros {
+    margin: 100px 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+#nosotros .home-text {
+    width: 33%;
+}
+
+#nosotros-info {
+    margin: 100px 0px 0px 150px;
+}
+
+#nosotros-info h2 {
+    font-weight: 400;
+    color:#d6de23 ; 
+    font-size: 40px;
+}
+#nosotros-info p {
+    margin: 10px 0px;
+}
+
+#nosotros-info .serv-row {
+    display: flex;
+    flex-direction: row;
+}
+
+#nosotros-info .serv-row .serv-col {
+    flex-grow: 1;
+}
