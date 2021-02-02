@@ -1,13 +1,5 @@
 <?php get_header() ?>
 
-<div id="nav-layout" class="nav-close">
-    <div id="nav-menu" class="center">
-	<a href="#portafolio">PORTAFOLIO</a> <br/>
-	<a href="#nosotros">NOSOTROS</a> <br />
-	<a href="#contacto">CONTACTO</a> <br/>
-    </div>
-</div>
-
 <div id="main">
 
 <?php 

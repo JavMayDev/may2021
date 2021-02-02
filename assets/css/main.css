@@ -5,11 +5,16 @@ html {
     color: #222;
 }
 
+body {
+    margin: 0px !important;
+}
+
 #wpadminbar {
     display: none;
 }
 
 #main {
+    min-height: 100vh;
     max-width: 1200px;
     margin-top: 130px;
     left: 50%;
@@ -22,6 +27,15 @@ html {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    flex-grow: 1;
 }
 
 #header {

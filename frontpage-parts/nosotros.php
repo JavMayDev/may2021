@@ -15,8 +15,8 @@
 
     <h2>SERVICIOS</h2>
 
-    <div class="serv-row">
-	<div class="serv-col">
+    <div class="row">
+	<div class="col">
 	    <h4>BRANDING</h4>
 	    <ul>
 	        <li>Identidad gr&aacute;fica</li>
@@ -27,7 +27,7 @@
 	    </ul>
 	</div>
 
-	<div class="serv-col">
+	<div class="col">
 	    <h4>COMUNICACI&Oacute;N</h4>
 	    <ul>
 	        <li>Dise&ntilde;o editorial</li>
@@ -38,8 +38,8 @@
 	</div>
     </div>
 
-    <div class="serv-row">
-	<div class="serv-col">
+    <div class="row">
+	<div class="col">
 	    <h4>EXPERIENCIAL</h4>
 	    <ul>
 	        <li>Campa&ntilde;as y estrategias</li>
@@ -47,7 +47,7 @@
 		<li>Dise&ntilde;o y ambientacion de tiendas</li>
 	    </ul>
 	</div>
-	<div class="serv-col">
+	<div class="col">
 	    <h4>DIGITAL</h4>
 	    <ul>
 	        <li>Dise&ntilde;o y programaci&oacute;n web</li>

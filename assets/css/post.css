@@ -1,0 +1,29 @@
+.post p {
+    margin: 10px 0px !important;
+}
+
+.post-nav {
+    float: right;
+}
+.post-nav img {
+    margin: 20px;
+    width: 50px;
+    height: auto;
+}
+
+.post-nav img:hover {
+    opacity: 0.7;
+}
+
+.post-content p {
+    width: 50%;
+}
+
+.post-content .wp-block-image {
+    margin: 30px 0px;
+}
+
+.post-content img {
+    width: 100%;
+    height: auto;
+}

@@ -20,12 +20,3 @@
 #nosotros-info p {
     margin: 10px 0px;
 }
-
-#nosotros-info .serv-row {
-    display: flex;
-    flex-direction: row;
-}
-
-#nosotros-info .serv-row .serv-col {
-    flex-grow: 1;
-}
